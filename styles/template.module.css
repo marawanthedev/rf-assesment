@@ -1,0 +1,17 @@
+.template {
+    background-color: red;
+    width: 100%;
+    height: auto;
+}
+
+.navbarContainer {
+    width: 100%;
+    height: 10rem;
+    background-color: yellow;
+}
+
+.footerContainer {
+    width: 100%;
+    height: 10rem;
+    background-color: blue;
+}

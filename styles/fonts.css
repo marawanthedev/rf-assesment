@@ -1,0 +1,19 @@
+/* DM SANS FONT */
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+
+/* font family */
+.-f-family-ds {
+  font-family: "DM Sans", sans-serif;
+}
+
+/* font weights */
+.f-w-400 {
+  font-weight: 400;
+}
+.f-w-500 {
+  font-weight: 500;
+}
+
+.f-w-700 {
+  font-weight: 700;
+}
